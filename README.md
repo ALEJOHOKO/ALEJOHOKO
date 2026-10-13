@@ -1,5 +1,10 @@
 <div align="center">
 
+<style>
+
+
+</style>
+
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/ALEJOHOKO">
   <picture>
