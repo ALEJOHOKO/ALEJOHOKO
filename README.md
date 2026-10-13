@@ -1,10 +1,5 @@
 <div align="center">
 
-<style>
-
-
-</style>
-
 <!-- LOCAL CITY-POP BANNER -->
 <a href="https://github.com/ALEJOHOKO">
   <picture>
@@ -17,10 +12,12 @@
 <br>
 
 <a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
+  <!-- Cambiado color a un verde menta/pastel (#A8E6CF) -->
+  <img src="https://demolab.com\++\%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ALEJOHOKO&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<!-- Cambiado color del badge de vistas a un verde salvia pastel (#87A987) -->
+<img src="https://komarev.com" alt="profile views">
 
 </div>
 
@@ -41,7 +38,7 @@
 <table border="1" cellpadding="14" bgcolor="#17171c">
   <thead>
     <tr>
-      <th colspan="2" align="left"><code>macu-dev:~$ cat tech-stack.yaml</code></th>
+      <th colspan="2" align="left"><code>macu-dev:~\$ cat tech-stack.yaml</code></th>
     </tr>
   </thead>
   <tbody>
@@ -118,14 +115,15 @@
 
 <div align="center">
 
+<!-- Modificados los colores hexadecimales de Instagram y GitHub a verdes pastel uniformes -->
 <a href="https://www.instagram.com/ALEJOHOKO">
-  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
+  <img src="https://shields.io" alt="Instagram">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/ALEJOHOKO">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
+  <img src="https://shields.io" alt="GitHub">
 </a>
 
 </div>
