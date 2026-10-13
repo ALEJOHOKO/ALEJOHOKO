@@ -13,10 +13,10 @@
 <br>
 
 <a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=5FD38D&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ALEJOHOKO&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=ALEJOHOKO&style=flat&color=5fd38d&label=profile+views" alt="profile views">
 
 </div>
 
@@ -70,10 +70,10 @@
         <sub><code>Node.js · JavaScript · React · Next.js · TypeScript · Python · FastAPI</code></sub>
       </td>
       <td valign="top"><code>╰─ ⌁ security_iac:</code><br><br>
-        <img src="https://cdn.simpleicons.org/trivy/f3d29b?viewbox=auto" height="48" alt="Trivy">
+        <img src="https://cdn.simpleicons.org/trivy/a8e6b0?viewbox=auto" height="48" alt="Trivy">
         <img src="assets/icon-sonarqube.svg" height="48" alt="SonarQube">
         <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform">
-        <img src="https://cdn.simpleicons.org/cilium/c7a4f5?viewbox=auto" height="48" alt="Cilium">
+        <img src="https://cdn.simpleicons.org/cilium/7ee0a8?viewbox=auto" height="48" alt="Cilium">
         <img src="https://cdn.simpleicons.org/falco/76d8d2?viewbox=auto" height="48" alt="Falco"><br>
         <sub><code>Trivy · SonarQube · Terraform · Cilium · Falco</code></sub>
       </td>
@@ -115,13 +115,13 @@
 <div align="center">
 
 <a href="https://www.instagram.com/ALEJOHOKO">
-  <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
+  <img src="https://img.shields.io/badge/Instagram-5fd38d?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
 </a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
 <a href="https://github.com/ALEJOHOKO">
-  <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-5fd38d?style=for-the-badge&logo=github&logoColor=1a1a2e" alt="GitHub">
 </a>
 
 </div>
