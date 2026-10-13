@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=5FD38D&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=ALEJOHOKO&style=flat&color=5fd38d&label=profile+views" alt="profile views">
+<img src="https://hits.sh/github.com/ALEJOHOKO.svg?style=flat&label=profile%20views&color=5fd38d" alt="profile views">
 
 </div>
 
