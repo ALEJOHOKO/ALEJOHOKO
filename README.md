@@ -2,7 +2,7 @@
 
 <style>
 
-    
+
 </style>
 
 <!-- LOCAL CITY-POP BANNER -->
@@ -17,10 +17,10 @@
 <br>
 
 <a href="https://github.com/macu-dev">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Maria+Claudia+%E2%80%94+DevOps+Engineer%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Native%3BContainers+%E2%80%A2+Kubernetes+%E2%80%A2+Observability%3BCafe+-+Retro+-+Music+-+Vibe+-+Chill+-+Tecnologia" alt="Banner animado con perfil DevOps">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=F78CA0&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=macu-dev&style=flat&color=f78ca0&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=ALEJOHOKO&style=flat&color=f78ca0&label=profile+views" alt="profile views">
 
 </div>
 
@@ -29,7 +29,7 @@
 ## `$ whoami`
 
 <p align="center">
-  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de María Claudia, DevOps Engineer">
+  <img src="assets/whoami-citypop.svg" width="960" alt="Terminal city-pop con el perfil de ALEJANDRO ALVAREZ">
 </p>
 
 <br>
@@ -118,16 +118,13 @@
 
 <div align="center">
 
-<a href="https://www.instagram.com/diario_devops">
+<a href="https://www.instagram.com/ALEJOHOKO">
   <img src="https://img.shields.io/badge/Instagram-f78ca0?style=for-the-badge&logo=instagram&logoColor=1a1a2e" alt="Instagram">
 </a>&nbsp;&nbsp;
-<a href="https://medium.com/@maraclaudiaprezescalante">
-  <img src="https://img.shields.io/badge/Medium-c7a4f5?style=for-the-badge&logo=medium&logoColor=1a1a2e" alt="Medium">
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mcperezes/">
+<a href="https://www.linkedin.com/in/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/macu-dev">
+<a href="https://github.com/ALEJOHOKO">
   <img src="https://img.shields.io/badge/GitHub-f78ca?style=for-the-badge&logo=github&logoColor=1a1a221" alt="GitHub">
 </a>
 
@@ -137,5 +134,5 @@
 <br>
 
 <div align="center">
-<sub>Hecho con 💖 y mucho cafe desde Rosario, Argentina · @macu-dev</sub>
+<sub>BUILD TILL STARS  ⋆˙⟡   ALEJOHOKO</sub>
 </div>
