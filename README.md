@@ -12,7 +12,8 @@
 
 <br>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&duration=4000&pause=1500&color=83F7A1&center=true&width=435&lines=Alejandro+Alvarez+Galvis++%E2%9F%A1%E2%98%86%EA%A9%9C++Computer+Science;%CB%9A%E2%82%8A%E2%80%A7Building+Towards+the+Stars+%E2%80%A7%E2%82%8A%CB%9A%E2%9C%A9%E5%BD%A1+;Cloud+%E2%98%BE+DevOps+%E2%98%BE+Containers;API+%E2%8B%86+AI;Matcha+%E2%8B%86+Stars+%E2%8B%86+Music+%E2%8B%86+Tech" alt="Typing SVG" />
+<a href="https://github.com/ALEJOHOKO">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&amp;weight=700&amp;size=26&amp;duration=2600&amp;pause=900&amp;color=5FD38D&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Alejandro+Alvarez+Galvis+%E2%80%94+Computer+Science%3BInfrastructure+as+Code+%7C+CI%2FCD+%7C+Cloud+Devops%3BContainers+%E2%80%A2+API+%E2%80%A2+C++%3BMatcha+-+Merge+-+Music+-+Vibe+-+Chill+-+Tech" alt="Banner animado con perfil DevOps">
 </a>
 
 <img src="https://hits.sh/github.com/ALEJOHOKO.svg?style=flat&label=profile%20views&color=5fd38d" alt="profile views">
