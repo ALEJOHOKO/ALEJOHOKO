@@ -111,5 +111,5 @@
 <br>
 
 <div align="center">
-<sub>BUILD TILL STARS  ⋆˙⟡   ALEJOHOKO</sub>
+<sub href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&duration=4000&pause=1500&color=83F7A1&center=true&width=435&lines=Building+Towards+the+Stars+%E2%8B%86%CB%99%E2%9F%A1+++ALEJOHOKO" alt="Typing SVG" /></sub>
 </div>
