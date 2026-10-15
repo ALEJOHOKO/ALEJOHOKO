@@ -47,9 +47,8 @@
         <sub><code>AWS</code></sub>
       </td>
       <td width="50%" valign="top"><code>├─ ▣ databases_messaging:</code><br><br>
-        <img src="assets/icon-amazon-rds.svg" height="48" alt="Amazon RDS">
         <img src="https://skillicons.dev/icons?i=sql,mysql,postgres,mongodb,dynamodb" alt="MySQL, PostgreSQL, MongoDB y DynamoDB"><br>
-        <sub><code>Amazon RDS · MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
+        <sub><code>MySQL · PostgreSQL · MongoDB · DynamoDB</code></sub>
       </td>
     </tr>
     <tr>
